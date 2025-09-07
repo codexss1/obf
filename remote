@@ -1,2 +1,2 @@
-remote:FireServer("newSound", SOUND_NAME, jointsService, assetId, PITCH, VOLUME, LOOP)
-remote:FireServer("playSound", SOUND_NAME) 
+remote:FireServer("newSound", name, service, music, pitch, volume, loop)
+remote:FireServer("playSound", name) 
