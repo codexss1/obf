@@ -1,16 +1,16 @@
-game.sg:SetCore("SendNotification", {
+sg:SetCore("SendNotification", {
     Title = "welcum to david bazooka music player";
     Text = "hello team";
     Duration = 5; -- seconds
 })
 
-game.sg:SetCore("SendNotification", {
+sg:SetCore("SendNotification", {
     Title = "i matt kaufmnan and i semll childrne";
     Text = "schelppy is predaotr cuz he catch predator";
     Duration = 5; -- seconds
 })
 
-game.sg:SetCore("SendNotification", {
+sg:SetCore("SendNotification", {
     Title = "fe bypass";
     Text = "game.workspace.filteringeanbled = false";
     Duration = 5; -- seconds
